@@ -1,1 +1,1 @@
-# MOGO_CadetCaseStudies
+# KriKit_MOGO_CadetCaseStudies
